@@ -1,4 +1,4 @@
-# 👋 Hi, I’m  PRATHMESH BADHE  (@prathmesh2028)
+# 👋 Hi, I’m  PRATHMESH BADHE  (@prathmesh9309)
 
 ```👀 I’m interested in FULL STACK DEVELOPMENT and trying to achieve my goal as a full stack developer```
 ```-🌱 I’m currently learning development i.e MERN stack with side by side DSA in C++```
