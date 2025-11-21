@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full stack (MERN) developer from Pune, Maharashtra</h3>
 
 - 🔭 I’m currently persuing Bachlor's Degree from [Sinhgad College of Engineering , Pune](in Information Technology)
-
-- 📝 I also write articles on [https://medium.com/@badheprathmesh2028](https://medium.com/@badheprathmesh2028)
+- 
 
 - 📫 How to reach me **badheprathmesh2028@gmail.com**
 
